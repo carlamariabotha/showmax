@@ -1,0 +1,18 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+
+h1 {
+    color: rgb(192, 5, 5);
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.first {
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
