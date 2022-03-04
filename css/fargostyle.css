@@ -3,16 +3,27 @@ html {
     font-family: 'Shippori Antique B1', sans-serif;
 }
 
-
 h1 {
     color: rgb(192, 5, 5);
     text-align: center;
     letter-spacing: 10px;
 }
 
+
+.header {
+    background-image: url(../img/fargoheader.jpg);
+    padding: 50px 50px 500px 50px;
+    background-size: cover;
+}
+
+/*
+place a class within the img file if  the other method  does not work and place the
+that is now in the css file within the html file...
 .first {
     display: block;
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
+*/
+

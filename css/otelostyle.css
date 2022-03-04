@@ -6,6 +6,16 @@ h1 {
     letter-spacing: 10px;
 }
 
+.header {
+    background-image: url(https://i.ytimg.com/vi/gek4b3x0TTQ/maxresdefault.jpg);
+    padding: 10px 50px 540px 50px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* This was my first solution to getting the image centered and full screen. it was also responsive. Though the 
+img file should then be within the html
 .first {
     align-items: center;
     display: block;
@@ -13,3 +23,4 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 }
+*/

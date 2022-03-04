@@ -6,6 +6,16 @@ h1 {
     text-align: center;
 }
 
+.header {
+    background-image: url(../img/resurrection.jpg);
+    padding: 50px 50px 500px 50px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+/* Backup image settings
 img {
     display: block;
     max-width: 100%;
@@ -13,3 +23,4 @@ img {
     margin-right: auto;
 
 }
+*/
