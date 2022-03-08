@@ -8,6 +8,7 @@ h1 {
     color: white;
     text-align: center;
     letter-spacing: 10px;
+    text-decoration: overline;
 }
 
 .header {
