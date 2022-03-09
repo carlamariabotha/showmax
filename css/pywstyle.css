@@ -5,14 +5,14 @@ body {
 }
 
 h1 {
-    color: white;
+    color: rgb(255, 105, 180);
     text-align: center;
     letter-spacing: 10px;
     text-decoration: overline;
 }
 
 .header {
-    background-image: url(https://i.pinimg.com/originals/01/78/2c/01782c173a8ea4d361928c733f7f9408.png);
+    background-image: url(../img/pywpaint.jpg);
     padding: 50px 50px 500px 50px;
     background-size: cover;
     background-position: center;

@@ -11,7 +11,7 @@ h1 {
 }
 
 .header {
-    background-image: url(https://prod-lensculture-photos.s3.amazonaws.com/original/ae84aee7-d46e-486b-b56b-7efe30f3bf1a.jpg);
+    background-image: url(../img/moonlightpaint.jpg);
     padding: 40px 50px 500px 50px;
     background-size: cover;
     background-position: center;
