@@ -1,0 +1,17 @@
+body {
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+header {
+    background-image: url(../img/midpaint.jpg);
+    padding: 50px 50px 500px 50px;
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    text-align: center;
+    text-decoration: overline;
+    letter-spacing: 10px;
+    color: rgb(0, 248, 12);
+}

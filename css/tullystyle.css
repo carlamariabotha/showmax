@@ -1,0 +1,18 @@
+body {
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+header {
+    background-image: url(../img/tullypaint.jpg);
+    padding: 50px 50px 500px 50px;
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    color: blueviolet;
+    letter-spacing: 10px;
+}
